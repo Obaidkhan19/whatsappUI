@@ -1,6 +1,7 @@
 # whatsapp
 
-A new Flutter project.
+Responsive WhatsApp mobile and WhatsApp web UI
+
 
 ## Getting Started
 
